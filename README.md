@@ -33,9 +33,9 @@ Data Scientist | Data Analyst
 
 ### 🔨 I'm currently...
 ```yaml
-- Developing a statistic model using Multi Criteria Analysis Decision ( MDCA ) as decision core
-- Experimentating statistic concepts with Data Exploration
-- Data Engineering pipeline project
+- Preparing for HACKMIT 2026
+- Developing an Machine Learning Model for a diabetes dataset
+- Multi Agent Project for managing finances
 ```
 
 ## 💡 Highlights
@@ -54,9 +54,21 @@ Data Scientist | Data Analyst
 - **Link:** https://github.com/Beatriz-Bronoski/geo-risk
 
 
+## 📊 GitHub Stats
 
-## My GitHub stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Pinguino&show_icons"&hide_border=true&alt="Beatriz-Bronoski" />
+<div align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Beatriz-Bronoski&show_icons=true&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas de Beatriz no GitHub"
+  />
+
+  <img
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Beatriz-Bronoski&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Linguagens mais utilizadas por Beatriz"
+  />
+</div>
 
 
 <!---
