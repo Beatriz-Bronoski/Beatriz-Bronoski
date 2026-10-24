@@ -2,6 +2,8 @@ Data Scientist | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-bronoski/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/beatrizbronoski)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-46A2DA?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/beatrizbronoski)
+
 
 ### Most used languages
 <div style="display: flex; gap: 15px; align-items: center;">
